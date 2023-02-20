@@ -4,6 +4,6 @@ the implemented methods:
 -FAN
 -Linear Approximation Distance Thresholding (LADT)
 -Turning Point (TP)
--Zero Order Derivative Differncing
--First Order Derivative Differncing
--Second Order Derivative Differncing
+-Zero Order Derivative Differencing
+-First Order Derivative Differencing
+-Second Order Derivative Differencing
